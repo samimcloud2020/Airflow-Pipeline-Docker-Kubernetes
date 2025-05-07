@@ -138,7 +138,6 @@ If it fails, go to your DockerHub account and create a Personal Access Token (PA
 ```sh
 docker login -u iquantc
 ```
-PAT: dckr_pat_tlGmSZdBk0DHqqRuytCdOSw
 
 
 ### Try Docker Build Again
