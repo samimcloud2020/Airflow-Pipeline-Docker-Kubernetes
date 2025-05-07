@@ -9,6 +9,7 @@ YouTube Link:
 4. Docker
 5. DockerHub
 6. Kubernetes
+7. Kubectl
 
 
 ## Set up Environment
