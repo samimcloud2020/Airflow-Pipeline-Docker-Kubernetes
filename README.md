@@ -19,6 +19,10 @@ sudo apt update && sudo apt upgrade -y
 ```
 ```sh
 sudo apt install python3-pip -y
+
+```
+```sh
+sudo apt install python3.12-venv
 ```
 
 ### Create Python Virtual Environment & Activate it
