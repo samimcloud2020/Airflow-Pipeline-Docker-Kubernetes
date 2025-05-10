@@ -50,7 +50,9 @@ export AIRFLOW_HOME=~/airflow
 ```sh
 echo $AIRFLOW_HOME
 ```
-
+```sh
+sudo airflow db migrate
+```
 ### Confirm Existence of Airflow DB and Configuration File
 ```sh
 ls -l ~/airflow
