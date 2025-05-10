@@ -206,7 +206,11 @@ minikube ip
 ```sh
 http://<minikube-ip>:<NodePort>
 ```
+kubectl port-forward svc/iris-streamlit-service 8080:80 --address=0.0.0.0.0
 
+http://<ec2-ip>:8080
+```sh
+```
 ## Clean up
 
 ```sh
